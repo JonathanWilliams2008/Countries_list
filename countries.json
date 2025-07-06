@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Japan",
+    "flag": "flags/japan.png",
+    "hints": [
+      "It's in Asia.",
+      "Has Mount Fuji.",
+      "Famous for sushi.",
+      "Has a red circle on its flag.",
+      "Hosted the 2020 Olympics.",
+      "Capital is Tokyo.",
+      "Birthplace of anime.",
+      "Samurai culture.",
+      "Island nation.",
+      "Home to Nintendo."
+    ]
+  },
+  {
+    "name": "Brazil",
+    "flag": "flags/brazil.png",
+    "hints": [
+      "It's in South America.",
+      "Speaks Portuguese.",
+      "Famous for football.",
+      "Amazon rainforest is here.",
+      "Carnival festival.",
+      "Capital is Brasília.",
+      "Hosted the 2014 World Cup.",
+      "Rio de Janeiro is a city here.",
+      "Has a green, yellow, and blue flag.",
+      "Home to the statue Christ the Redeemer."
+    ]
+  }
+]
