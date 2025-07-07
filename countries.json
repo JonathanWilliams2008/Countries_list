@@ -1,34 +1,34 @@
 [
   {
-    "name": "Japan",
-    "flag": "flags/japan.png",
+    "name": "Costa Rica",
+    "flag": "https://random.country/wp-content/uploads/2022/04/costa-rica-flag-1024x538.jpg",
     "hints": [
-      "It's in Asia.",
-      "Has Mount Fuji.",
-      "Famous for sushi.",
-      "Has a red circle on its flag.",
-      "Hosted the 2020 Olympics.",
-      "Capital is Tokyo.",
-      "Birthplace of anime.",
-      "Samurai culture.",
-      "Island nation.",
-      "Home to Nintendo."
+      "Has red on the flag.",
+      "National dish is Gallo Pinto.",
+      "National language is Spanish.",
+      "Biggest export is Medical Instruments",
+      "Best finish at the FIFA World Cup is quarter-finals.",
+      "Has the 122th largest population in the world.",
+      "It is the 129th largest country in the world.",
+      "Located in Central America.",
+      "It's capital city is San José.",
+      "Footballer Keylor Navas is from here."
     ]
   },
   {
-    "name": "Brazil",
-    "flag": "flags/brazil.png",
+    "name": "New Zealand",
+    "flag": "https://random.country/wp-content/uploads/2022/04/new-zealand-flag-1024x538.jpg",
     "hints": [
-      "It's in South America.",
-      "Speaks Portuguese.",
-      "Famous for football.",
-      "Amazon rainforest is here.",
-      "Carnival festival.",
-      "Capital is Brasília.",
-      "Hosted the 2014 World Cup.",
-      "Rio de Janeiro is a city here.",
-      "Has a green, yellow, and blue flag.",
-      "Home to the statue Christ the Redeemer."
+      "Has white on its flag.",
+      "Its national dish is Hangi.",
+      "It has 3 national languages.",
+      "It has a GDP of 262.9 billion USD.",
+      "30% of the country is a national reserve.",
+      "It has the 126th largest population in the world.",
+      "It is the 76th largest country in the world.",
+      "It was the last country in the world to be inhabited by humans.",
+      "Its capital city is Wellington.",
+      "Its national rugby team is known as the Kiwis."
     ]
   }
 ]
