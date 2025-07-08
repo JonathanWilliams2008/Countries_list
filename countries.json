@@ -1,5 +1,21 @@
 [
   {
+    "name": "Sweeden",
+    "flag": "https://random.country/wp-content/uploads/2022/04/sweden-flag-1024x538.jpg",
+    "hints": [
+      "It has a population density of 25 per Km2.",
+      "National flower is the Campanula rotundifolia.",
+      "Has a national debt of roughly 201.96 billion U.S. dollars",
+      "Flag has 2 colours",
+      "Has won a total of 151 gold medals in the summer olympics",
+      "Has the 91st largest population in the world.",
+      "It is the 56th largest country in the world.",
+      "Spotify was founded here.",
+      "Located in Europe.",
+      "It's capital city is Stockholm."
+    ]
+  },
+  {
     "name": "Costa Rica",
     "flag": "https://random.country/wp-content/uploads/2022/04/costa-rica-flag-1024x538.jpg",
     "hints": [
