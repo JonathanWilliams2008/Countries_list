@@ -31,6 +31,22 @@
       "It's capital city is Stockholm."
     ]
   },
+    {
+    "name": "Moldova",
+    "flag": "https://random.country/wp-content/uploads/2022/04/moldova-flag-1024x538.jpg",
+    "hints": [
+      "This country has the colour blue in its flag.",
+      "Has a population density of 123 per Km2.",
+      "National dish is Mamaliga.",
+      "Located in Europe.",
+      "Its biggest export is insulated wire.",
+      "Has the 131st largest population in the world.",
+      "It is the 139th largest country in the world.",
+      "National language is Romanian.",
+      "It's capital city is Chișinău.",
+      "It's a former USSR member."
+    ]
+  },
   {
     "name": "New Zealand",
     "flag": "https://random.country/wp-content/uploads/2022/04/new-zealand-flag-1024x538.jpg",
