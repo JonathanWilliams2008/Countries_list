@@ -51,7 +51,7 @@
     "name": "Argentina",
     "flag": "https://random.country/wp-content/uploads/2022/04/argentina-flag-1024x538.jpg",
     "hints": [
-      "This country has a symbol in the centr of its flag.",
+      "This country has a symbol in the centre of its flag.",
       "Population density is 17 per Km2.",
       "Currency is the peso",
       "National language is Spanish.",
@@ -61,6 +61,22 @@
       "Located in South America.",
       "It's capital city is Buenos Aires.",
       "Lionel Messi plays football for this country."
+    ]
+  },
+        {
+    "name": "Ghana",
+    "flag": "https://random.country/wp-content/uploads/2022/04/ghana-flag-1024x538.jpg",
+    "hints": [
+      "National language is English.",
+      "Flag is made contains 4 colours.",
+      "Population density is 137 per km2",
+      "National flower is the Hibiscus flowers.",
+      "Biggest export is gold.",
+      "Has the 47th largest population in the world.",
+      "It is the 82nd largest country in the world.",
+      "Located in Africa.",
+      "National dish is Fufu.",
+      "Capital city is Accra."
     ]
   },
   {
