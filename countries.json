@@ -47,6 +47,22 @@
       "It's a former USSR member."
     ]
   },
+      {
+    "name": "Argentina",
+    "flag": "https://random.country/wp-content/uploads/2022/04/argentina-flag-1024x538.jpg",
+    "hints": [
+      "This country has a symbol in the centr of its flag.",
+      "Population density is 17 per Km2.",
+      "Currency is the peso",
+      "National language is Spanish.",
+      "Has a national debt of roughly 453.88 billion USD.",
+      "Has the 32nd largest population in the world.",
+      "It is the 8th largest country in the world.",
+      "Located in South America.",
+      "It's capital city is Buenos Aires.",
+      "Lionel Messi plays football for this country."
+    ]
+  },
   {
     "name": "New Zealand",
     "flag": "https://random.country/wp-content/uploads/2022/04/new-zealand-flag-1024x538.jpg",
