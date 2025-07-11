@@ -68,7 +68,7 @@
     "flag": "https://random.country/wp-content/uploads/2022/04/ghana-flag-1024x538.jpg",
     "hints": [
       "National language is English.",
-      "Flag is made contains 4 colours.",
+      "Flag is contains 4 colours.",
       "Population density is 137 per km2",
       "National flower is the Hibiscus flowers.",
       "Biggest export is gold.",
@@ -77,6 +77,38 @@
       "Located in Africa.",
       "National dish is Fufu.",
       "Capital city is Accra."
+    ]
+  },
+    {
+    "name": "Madagascar",
+    "flag": "https://random.country/wp-content/uploads/2022/04/madagascar-flag-1024x538.jpg",
+    "hints": [
+      "Flag contains 3 colours.",
+      "National dish is Romazava.",
+      "Currency is the ariary",
+      "One of its national languages is French.",
+      "Its GDP is roughly 17.42 billion USD.",
+      "Has the 51st largest population in the world.",
+      "It is the 46th largest country in the world.",
+      "Located in Africa.",
+      "Is an island.",
+      "The countrys name is the title of a dreamworks movie."
+    ]
+  },
+    {
+    "name": "Monaco",
+    "flag": "https://random.country/wp-content/uploads/2022/04/monaco-flag-1024x538.jpg",
+    "hints": [
+      "Flag contains 2 colours.",
+      "National dish is Barbajuan.",
+      "National flower is the Red Carnation.",
+      "National language is French.",
+      "Its GDP is roughly 256,580.52 billion USD.",
+      "Has the 214th largest population in the world.",
+      "It is the 214th largest country in the world.",
+      "Located in Europe.",
+      "There is a F1 grand prix hosted here.",
+      "Citizens of this country pay no income tax."
     ]
   },
   {
