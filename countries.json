@@ -174,5 +174,21 @@
       "Its capital city is Wellington.",
       "Its national rugby team is known as the Kiwis."
     ]
+  },
+    {
+    "name": "Qatar",
+    "flag": "https://random.country/wp-content/uploads/2022/04/qatar-flag.jpg",
+    "hints": [
+      "Flag is made up of 2 colours.",
+      "National currency is the Riyal.",
+      "National dish is Machboos.",
+      "It has a GDP of 213 billion USD.",
+      "National language is arabic.",
+      "It has the 139th largest population in the world.",
+      "It is the 164th largest country in the world.",
+      "Located in the middle east.",
+      "Its capital city is Doha.",
+      "Hosted the 2022 fifa world cup."
+    ]
   }
 ]
