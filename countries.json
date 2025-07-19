@@ -190,5 +190,21 @@
       "Its capital city is Doha.",
       "Hosted the 2022 fifa world cup."
     ]
+  },
+      {
+    "name": "Austria",
+    "flag": "https://random.country/wp-content/uploads/2022/04/qatar-flag.jpg",
+    "hints": [
+      "Population density is 109 per km2.",
+      "Flag contains red.",
+      "National dish is Tafelspitz.",
+      "Biggest export is machinery.",
+      "Formed on July 27th 1955.",
+      "It has the 97th largest population in the world.",
+      "It is the 115th largest country in the world.",
+      "National currency is the Euro.",
+      "Actor Arnold Schwarzenegger was born here.",
+      "Capital city is Vienna."
+    ]
   }
 ]
