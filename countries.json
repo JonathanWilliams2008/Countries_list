@@ -206,5 +206,21 @@
       "Actor Arnold Schwarzenegger was born here.",
       "Capital city is Vienna."
     ]
+  },
+    {
+    "name": "Haiti",
+    "flag": "https://random.country/wp-content/uploads/2022/04/haiti-flag.jpg",
+    "hints": [
+      "Population density is 414 per km2.",
+      "Flag contains blue.",
+      "National dish is Griyo.",
+      "Has a GDP of 19.85 billion USD.",
+      "One of its national languages is French.",
+      "It has the 82nd largest population in the world.",
+      "It is the 147th largest country in the world.",
+      "Located in the caribeban.",
+      "Had a massive earthquake in 2010.",
+      "Is the only country in history estabblished by a slave revolt."
+    ]
   }
 ]
