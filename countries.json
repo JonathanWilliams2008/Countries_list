@@ -222,5 +222,21 @@
       "Had a massive earthquake in 2010.",
       "Is the only country in history estabblished by a slave revolt."
     ]
+  },
+    {
+    "name": "Greece",
+    "flag": "https://random.country/wp-content/uploads/2022/04/greece-flag.jpg",
+    "hints": [
+      "Flag is made up of 2 colours.",
+      "National dish is Moussaka.",
+      "Population density is 81 per Km2.",
+      "Biggest export is refined petroleum.",
+      "Formed on Feb 3rd 1830.",
+      "It has the 87th largest population in the world.",
+      "It is the 97th largest country in the world.",
+      "National currency is the Euro.",
+      "Invented the Olympic Games.",
+      "Capital city is Athens."
+    ]
   }
 ]
