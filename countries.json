@@ -254,5 +254,21 @@
       "Located in Southeast Asia.",
       "National language is Lao."
     ]
+  },
+      {
+    "name": "Columbia",
+    "flag": "https://random.country/wp-content/uploads/2022/04/colombia-flag.jpg",
+    "hints": [
+      "Population density is 46 per km2.",
+      "Formed on July 20th 1810.",
+      "Has the highest level of biodiversity per square mile in the world.",
+      "Biggest export is petroleum.",
+      "National language is Spanish.",
+      "It has the 29th largest population in the world.",
+      "It is the 26th largest country in the world.",
+      "Located in South America.",
+      "Pablo Escobar was born here.",
+      "Capital city is Bogotá."
+    ]
   }
 ]
