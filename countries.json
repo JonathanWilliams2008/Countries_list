@@ -238,5 +238,21 @@
       "Invented the Olympic Games.",
       "Capital city is Athens."
     ]
+  },
+    {
+    "name": "Laos",
+    "flag": "https://random.country/wp-content/uploads/2022/04/laos-flag.jpg",
+    "hints": [
+      "Flag is made up of 3 colours.",
+      "National currency is the Kip.",
+      "National flower is the frangipani.",
+      "GDP is roughly 15.84 billion USD.",
+      "Formed on July 19th 1949.",
+      "It has the 105th largest population in the world.",
+      "It is the 84th largest country in the world.",
+      "Capital city is Vientiane.",
+      "Located in Southeast Asia.",
+      "National language is Lao."
+    ]
   }
 ]
