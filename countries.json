@@ -270,5 +270,21 @@
       "Pablo Escobar was born here.",
       "Capital city is Bogotá."
     ]
+  },
+    {
+    "name": "Suriname",
+    "flag": "https://random.country/wp-content/uploads/2022/04/suriname-flag-1024x538.jpg",
+    "hints": [
+      "National dish is pom.",
+      "Formed on November 25th 1975.",
+      "National currency is the dollar.",
+      "Biggest export is gold.",
+      "National language is Dutch.",
+      "It has the 171st largest population in the world.",
+      "It is the 92nd largest country in the world.",
+      "Population density is 4 per km2.",
+      "Capital city is Paramaribo.",
+      "Capital city is Paramaribo."
+    ]
   }
 ]
